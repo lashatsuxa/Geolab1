@@ -1,0 +1,43 @@
+.logo {
+	width: 100px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.nav{
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.main{
+	margin-bottom: 7.5px;
+	
+}
+.main1{
+	color: red;	
+}
+.news{
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+}
+.news1{
+	color: blue;
+}
+.contact{
+	margin-top: 7.5px;
+}
+.contact1{
+	color: blue;
+}
+a{
+	text-decoration: none;
+}
+.img{
+	margin-left: 30px;
+	margin-top: 22.5px;
+}
+li{
+	margin:7.5px;
+}
+.news2{
+	color: red;
+}
